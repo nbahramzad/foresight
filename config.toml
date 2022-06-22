@@ -1,4 +1,5 @@
 baseURL = "https://foresight.law/"
+canonifyURLs = "false"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
