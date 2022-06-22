@@ -1,5 +1,6 @@
-baseURL = "https://foresight.law/"
+# baseURL = "https://example.org/"
 canonifyURLs = "false"
+relativeURLs = "true"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
