@@ -61,14 +61,14 @@ contactLink = "contact"
 copyright = "All right reserved copyright © Foresight Law 2022"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/xbjweywa"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "G-E5EF7E6PM8"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
 address = "3400 Plantation Dr. Lincoln, NE 68516"
 # email = ""
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(1) 555-5555"
+openingHours = "Open weekdays 9AM to 4PM CT"
+phone = "402.607.8222"
 
 [params.map]
 APIkey = "AIzaSyDxBylWs94C6F0uNzNW1YKDib6Y7AKIxZI"
