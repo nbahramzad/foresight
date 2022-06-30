@@ -3,12 +3,10 @@ enable: true
 topTitle: Hello, I am Carly
 content: |
   # I am here to solve your legal problems
-  With my years of experience and attention to detail, you can rest assured that your legal needs are met
+  With my years of experience and attention to detail, you can rest assured that your legal needs will be met
 buttonName: Contact me
 buttonURL: contact
-image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+image: images/hero/carly.jpg
 title: Hello, I am Carly
 subtitle: ''
 description: ''

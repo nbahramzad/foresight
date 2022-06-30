@@ -59,13 +59,13 @@ weight = 4
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Foresight Law 2022"
-footerLogo = "images/contact/widget-logo.png"
+footerLogo = "images/site-navigation/logo-white.png"
 formspreeURL = "https://formspree.io/f/xbjweywa"
 googleAnalytics = "G-E5EF7E6PM8"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "3400 Plantation Dr. Lincoln, NE 68516"
+address = "3400 Plantation Drive, Suite 100 Lincoln, NE 68516"
 # email = ""
 openingHours = "Open weekdays 9AM to 4PM CT"
 phone = "402.607.8222"

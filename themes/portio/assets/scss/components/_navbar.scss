@@ -11,7 +11,9 @@
         border-radius: 5px;
     }
     .navbar-brand {
+        width: 30%;
         img {
+            max-width: 100%;
             @include desktop {
                 width: 80%;
             }

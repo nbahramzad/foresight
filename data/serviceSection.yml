@@ -2,44 +2,40 @@
 enable: true
 topTitle: Working Area
 title: >
-  ## Creative Services
+  ## Legal Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Enjoy expertise to several areas of the law.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Business
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I can help you with all of your business law needs including: entity formations, service contracts, and more!
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Real Estate 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Buying or selling a property? I can create and review sales contracts to protect your interests.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Insurance 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Are you involved in an insurance claim and not receiving a fair amount?
+      Hire me to get what you deserve.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Creditor/Debtor Disputes
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Did an unexpected bill put you in an un-workable financial situation?
+      I can help you navigate through your options to eliminate debt and keep your assets.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development
+      #### Employment
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I have represented dozens of employers in lawsuits filed by their employees.
+      I enjoy helping business owners put policies in place now to prevent lawsuits in the future.
+    image: images/service/branding.svg
+  - content: >
+      #### Civil Litigation
+
+      If you have received a demand letter and don't know where to start, I can help you weigh your options and create a strategy.
     image: images/service/web.svg
